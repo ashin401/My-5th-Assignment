@@ -1,0 +1,23 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Banner Gradient */
+.banner {
+  background: linear-gradient(90deg, #006400, #014d2b);
+}
+
+.banner-logo {
+  width: 70px;
+  height: 70px;
+}
+
+/* History */
+.call-history ul li {
+  border-bottom: 1px solid #f1f1f1;
+  padding-bottom: 4px;
+}
+
